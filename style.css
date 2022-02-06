@@ -18,3 +18,9 @@ body, html {
     background-repeat: none;
     background-size: cover;
 }
+
+/* footer */
+.btn .btn-outline-light .btn-floating .m-1 .facebook{
+    background-image: url("./facebook.png");
+    background-color: #fff;
+}
